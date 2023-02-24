@@ -1,20 +1,30 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "Voor de zelfzorg wetenschapper"
+subtitle: Doe het zelf met verantwoordelijke producten
+image: /img/umiterra_banner.png
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Waarom UmiTerra?
+    text: "Umi Terra is dé plek voor mensen die op zoek zijn naar informatie over het zelf maken van natuurlijke producten."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "Wie ben ik?"
+    text: "Mijn naam is Lesley en ik ben inmiddels al ruim 10 jaar bezig met het maken van kruidenmengsels en het drogen van kruiden. Ik deel op deze website mijn kennis en ervaring op het gebied van natuurlijke producten, en geef je tips en tricks over hoe je zelf de mooiste en meest effectieve producten kunt maken. Of je nu geïnteresseerd bent in het kweken van kruiden, of in het maken van verzorgingsproducten voor je huid en haar, op Umi Terra vind je alles wat je nodig hebt om zelf aan de slag te gaan. Dus, laat je inspireren door de vele mogelijkheden die de natuur ons biedt, en begin vandaag nog met het maken van je eigen, unieke en natuurlijke producten!"
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    - image: /img/umiterra_handgemaakte-zeep.jpg
+      text: "Handgemaakte zeep bestaande uit natuurlijke Ingrediënten."
+    - image: /img/umiterra_therapeutische_olien.png
+      text: "Natuurlijke olien voor huid en haar voor stimulatie en reparatie."
+    - image:  /img/umiterra_natuurlijke_olien.png
+      text: "Therapeutische producten zoals massage olie of stimulerende zalfjes."
+
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: Zelfzorg wetenschappers
+    text: |
+        Eigen zeep of olie maken is een gezellige doe het zelf activiteit voor de doe-het-zelver.
+        
+        Zelfgemaakte zeep is zowel creatief als betaalbaar en is het natuurlijke, milieuvriendelijke alternatief voor dure zeep uit de winkel. Als je biologische ingrediënten gebruikt is zelf zeep maken niet alleen leuk maar ook milieuvriendelijk.
+        
+        Kortom, thuis zeep leren maken is een overwinning voor de schoonheidsroutine en voor het milieu.
 ---
+
+
 

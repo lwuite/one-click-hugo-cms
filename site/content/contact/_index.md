@@ -1,19 +1,17 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "/img/umiterra_logo_transparant.svg"
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Locatie
+    text: "Omgeving Haarlemmermeer"
+  - heading: Contact uren
+    text: "Maandag tot Zaterdag van: 18:00 – 22:00 lees ik mijn email en verwerk ik bestellingen"
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Ik wil graag met je praten en jouw gedachten en vragen horen. Jouw input is belangrijk voor mij zodat ik leren en verbeteren.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+<h3 class="f4 b lh-title mb2">Hoe kan ik...?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Je kunt ook onderstaand formulier gebruiken voor vragen over koffie
+beschikbaarheid, workshops, promotie en (product)partnerships
+Wees niet verlegen, stuur ons een berichtje!
