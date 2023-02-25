@@ -4,7 +4,7 @@
 
 		<div class="measure-narrow center mb4">
 
-			<img src="/img/umiterra_logo_transparant.svg" alt="UmiTerra logo" class="db w4 center mb4 br0">
+			<img src="/img/UmiTerra-logo.png" alt="UmiTerra logo" class="db w4 center mb4 br0">
 			<p class="f3 lh-title light-gray b tc mb2">Nieuwsbrief voor leuke recepten, weetjes en producten.</p>
 
 			{{ partial "newsletter-form" . }}
@@ -36,10 +36,10 @@
 			<div>
 				<h3 class="f4 b lh-title mb2 primary">Sociale media</h3>
 				<ul class="mhn2">
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-twitter") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-vimeo") }}
+					{{/* {{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook") }} */}}
+					{{/* {{ partial "social-icon" (dict "link" "#" "svg" "icons-twitter") }} */}}
+					{{ partial "social-icon" (dict "link" "https://www.instagram.com/umiterra/" "svg" "icons-instagram") }}
+					{{/* {{ partial "social-icon" (dict "link" "#" "svg" "icons-vimeo") }} */}}
 				</ul>
 			</div>
 

@@ -3,7 +3,7 @@ title: De magische kracht van Calendula
 date: 2017-01-04T15:04:10.000Z
 description: >-
   De Calendula Officinalis, ook wel de goudsbloem genoemd is een bloem die bekend staat om zijn helende, ontstekingsremmende werking
-image: /img/umagetera-calendula-flower.png
+image: /img/umiterra-calendula-flower.png
 ---
 
 Het is het geheime ingrediënt in veel genezende balsems en huidverzorgingsproducten, en met een goede reden. Calendula bloemblaadjes zijn rijk aan verbindingen die de huid voeden, hydrateren, en de genezing van de huid ondersteunen. Daarom worden ze al eeuwenlang gebruikt om te helpen bij van alles, van brandwonden en keelpijn tot andere huidirritaties. Maar denk niet dat je een snijwond of schaafwond nodig hebt om er gebruik van te maken - ik breng het aan op mijn gezicht en hou van de manier waarop het mijn huid laat stralen! Daarom wil ik jullie in het volgende recept laten zien hoe belachelijk eenvoudig het is om er een huidverzorgingszalf van te maken. Deze kun je gebruiken als een: gezichtsvochtinbrenger, lippenbalsem, baby billen balsem, zonnebrand balsem, insectenbeet balsem, bij acne. Serieus, dit spul is zo geweldig dat ik er een klein blikje van in mijn tas heb.
