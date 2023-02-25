@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+{{/* {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }} */}}
 
 {{/* {{ partial "4-up" .Params.intro }} */}}
 
@@ -16,17 +16,17 @@
 
 <!-- Image grid -->
 {{ partial "image-grid" . }}
-{{ end }}
+{{ end }} */}}
 
-<div class="pb4">
+{{/* <div class="pb4">
   {{ range .Params.testimonials }}
     {{ partial "blockquote" . }}
   {{ end }}
-</div>
+</div> */}}
 
 <!-- Full-width image -->
-<img src="{{ .Params.full_image }}" alt="" class="db w-100">
+{{/* <img src="{{ .Params.full_image }}" alt="" class="db w-100"> */}}
 
-{{ partial "table" .Params.pricing }} */}}
+{{/* {{ partial "table" .Params.pricing }} */}}
 
 {{ end }}

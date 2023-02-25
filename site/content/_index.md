@@ -1,6 +1,6 @@
 ---
-title: "Voor de zelfzorg wetenschapper"
-subtitle: Doe het zelf met verantwoordelijke producten
+title: "De zelfzorg wetenschapper"
+subtitle: Komt hier voor natuurlijke recepten, producten, duurzame creaties & ideeën
 image: /img/umiterra_banner.png
 blurb:
     heading: Waarom UmiTerra?
@@ -25,6 +25,3 @@ values:
         
         Kortom, thuis zeep leren maken is een overwinning voor de schoonheidsroutine en voor het milieu.
 ---
-
-
-

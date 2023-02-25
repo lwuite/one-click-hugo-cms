@@ -1,17 +1,20 @@
 {
-	"name": "",
-	"icons": [
-		{
-			"src": "\/img\/android-chrome-192x192.png",
-			"sizes": "192x192",
-			"type": "image\/png"
-		},
-		{
-			"src": "\/img\/android-chrome-512x512.png",
-			"sizes": "512x512",
-			"type": "image\/png"
-		}
-	],
-	"theme_color": "#ffffff",
-	"display": "standalone"
+    "name": "UmiTerra",
+    "short_name": "UmiTerra",
+    "icons": [
+        {
+            "src": "/img/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#6c8286",
+    "background_color": "#6c8286",
+    "start_url": "https://umiterra.nl",
+    "display": "standalone"
 }
