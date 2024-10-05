@@ -8,7 +8,7 @@
 
 {{ partial "ecwid-store" . }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Lees verder" "buttonLink" "/aanpak") }}
+{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "imageSrc" .Params.values.image.src "imageAlt" .Params.values.image.alt "buttonText" .Params.values.buttonText "buttonLink" .Params.values.buttonLink) }}
 
 {{ partial "blog" . }}
 

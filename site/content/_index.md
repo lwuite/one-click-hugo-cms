@@ -50,4 +50,9 @@ values:
 
     Kortom, thuis zeep leren maken is een overwinning voor de schoonheidsroutine
     en voor het milieu.
+  buttonText: Lees verder
+  buttonLink: /werkwijze
+  image:
+    src: /img/29_20241005_165212_0027.png
+    alt: Zelf zeep maken
 ---
