@@ -10,7 +10,7 @@ export const WorkingMethodModel: Model = {
     { name: "title", type: "string", required: true },
     { name: "image", type: "image" },
     {
-      name: "werkwijze",
+      name: "values",
       type: "list",
       items: {
         type: "object",
