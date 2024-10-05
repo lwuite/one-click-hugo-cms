@@ -8,7 +8,7 @@
   publish = "dist"
 
 [context.deploy-preview]
-  command = "yarn build:preview"
+  command = "yarn preview"
 
 [dev]
   framework = "hugo"
