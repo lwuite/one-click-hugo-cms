@@ -9,3 +9,4 @@ cypress/videos
 cypress/screenshots
 
 .stackbit/cache
+local
