@@ -30,7 +30,7 @@ intro:
 products:
   - image: /img/7_20241005_165211_0006.png
     text: Handgemaakte zeep bestaande uit natuurlijke ingrediënten.
-  - image: /img/umiterra_therapeutische_olien.png
+  - image: /img/29_20241005_165212_0027.png
     text: Natuurlijke oliën voor huid en haar voor stimulatie en reparatie.
   - image: /img/umiterra_natuurlijke_olien.png
     text: Therapeutische producten zoals massageolie of stimulerende zalfjes.
