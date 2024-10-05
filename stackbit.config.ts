@@ -73,6 +73,30 @@ const postModel = {
   ],
 };
 
+const blogModel = {
+  name: "blog",
+  type: "page",
+  filePath: "site/content/post/_index.md",
+  urlPath: "/post",
+  fields: [
+    {
+      name: "title",
+      label: "Title",
+      type: "string",
+    },
+    {
+      name: "subtitle",
+      label: "Subtitle",
+      type: "string",
+    },
+    {
+      name: "jumbotron_image",
+      label: "Jumbotron Image",
+      type: "image",
+    }
+  ],
+};
+
 const contactModel = {
     name: "contact",
     type: "page",
@@ -197,8 +221,9 @@ const productsModel =         {
   ],
 };
 
-const werkwijzeModel = {
-  name: "werkwijze",
+// Values
+const siteValuesModel = {
+  name: "siteValues",
   type: "page",
   filePath: "site/content/werkwijze/_index.md",
   urlPath: "/werkwijze",
@@ -234,9 +259,10 @@ export default defineStackbitConfig({
       models: [
         homeModel,
         postModel,
+        blogModel,
         contactModel,
         productsModel,
-        werkwijzeModel,
+        siteValuesModel,
       ],
       assetsConfig: {
         referenceType: "static",

@@ -1,6 +1,6 @@
 ---
 title: Werkwijze
-type: werkwijze
+type: siteValues
 image: /img/1_20241005_165211_0000.png
 values:
   - heading: Shade-grown coffee

@@ -1,7 +1,11 @@
 baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
-title = "Homepage"
+languageCode = "nl-nl"
+languageLang = "nl"
+title = "Umi Terra"
+
+[params]
+  blog_label = "Blog"
+  read_more_label = "Lees verder →"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
