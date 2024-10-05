@@ -14,9 +14,9 @@ This is a small business template built with [Hugo](https://gohugo.io) and [Netl
 
 ## Local Development
 
-Clone this repository, and run `yarn` or `npm install` from the new folder to install all required dependencies.
+Clone this repository, and run `npm` or `npm install` from the new folder to install all required dependencies.
 
-Then start the development server with `yarn start` or `npm start`.
+Then start the development server with `npm start`.
 
 https://docs.netlify.com/visual-editor/local-development/
 

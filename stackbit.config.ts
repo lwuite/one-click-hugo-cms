@@ -5,7 +5,7 @@ export default defineStackbitConfig({
   stackbitVersion: "~0.6.0",
   nodeVersion: "18",
   ssgName: "hugo",
-  postInstallCommand: "yarn add --no-save @stackbit/types",
+  postInstallCommand: "npm i --no-save @stackbit/types",
   contentSources: [
     new GitContentSource({
       rootPath: __dirname,
