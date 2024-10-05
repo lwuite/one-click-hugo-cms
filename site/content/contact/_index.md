@@ -14,6 +14,5 @@ Ik wil graag met je praten en jouw gedachten en vragen horen. Jouw input is bela
 
 ![](https://preview--umiterra-138f8.stackbit.dev/img/LesleyWuite-AI-Unblurred.png)
 
-Je kunt ook onderstaand formulier gebruiken voor vragen over koffie
-beschikbaarheid, workshops, promotie en (product)partnerships
-Wees niet verlegen, stuur ons een berichtje!
+Je kunt ook onderstaand formulier gebruiken voor vragen over
+beschikbaarheid, workshops, promotie en (product)partnerships.
