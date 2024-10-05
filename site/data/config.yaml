@@ -14,8 +14,6 @@ params:
       url: /products
     - label: Werkwijze
       url: /werkwijze
-    - label: Recepten
-      url: /recepten
     - label: Blog
       url: /post
     - label: Contact

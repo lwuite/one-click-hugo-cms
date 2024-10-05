@@ -3,40 +3,25 @@ title: Werkwijze
 type: WorkingMethod
 image: /img/1_20241005_165211_0000.png
 values:
-  - heading: Shade-grown coffee
+  - heading: Koud proces zeep maken
     text: >
-      Coffee is a small tree or shrub that grows in the forest understory in its
-      wild form, and traditionally was grown commercially under other trees that
-      provided shade. The forest-like structure of shade coffee farms provides
-      habitat for a great number of migratory and resident species.
-    imageUrl: /img/about-shade-grown.jpg
-  - heading: Single origin
+      Het koud proces is een traditionele methode waarbij oliën en loog worden gemengd om zeep te maken. 
+      Deze techniek vereist een rijpingsperiode van 4 tot 6 weken, waarin de zeep op natuurlijke wijze verzepelt en uithardt. 
+      Het resultaat is een pure, ambachtelijke zeep met een zachte textuur en rijk schuim, zonder kunstmatige toevoegingen.
+    imageUrl: /img/soap-cold-process.jpg
+  - heading: Warm proces zeep maken
     text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
-    imageUrl: /img/about-single-origin.jpg
-  - heading: Sustainable farming
+      Bij het warm proces wordt de verzeping versneld door warmte toe te passen. Dit zorgt ervoor dat de zeep sneller uithardt 
+      en een rustieke, ambachtelijke uitstraling krijgt. Het warm proces is ideaal voor wie snel een gebruiksklare zeep wil produceren.
+    imageUrl: /img/soap-hot-process.jpg
+  - heading: Smelt-en-giet zeep maken
     text: >
-      Sustainable agriculture is farming in sustainable ways based on an
-      understanding of ecosystem services, the study of relationships between
-      organisms and their environment. What grows where and how it is grown are
-      a matter of choice and careful consideration for nature and communities.
-    imageUrl: /img/about-sustainable-farming.jpg
-  - heading: Direct sourcing
+      Smelt-en-giet is een eenvoudige methode waarbij een vooraf gemaakte zeepbasis wordt gesmolten, waarna kleurstoffen, geuren, 
+      en andere natuurlijke ingrediënten worden toegevoegd. De zeep wordt in vormen gegoten en is binnen enkele uren klaar voor gebruik.
+    imageUrl: /img/soap-melt-pour.jpg
+  - heading: Zeep maken met natuurlijke ingrediënten
     text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
-    imageUrl: /img/about-direct-sourcing.jpg
-  - heading: Reinvest profits
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
-    imageUrl: /img/about-reinvest-profits.jpg
-werkwijze: []
+      Zeep maken met natuurlijke ingrediënten zoals kruiden, etherische oliën en plantaardige boters is niet alleen beter voor het milieu, 
+      maar ook zachter voor de huid. Deze methode richt zich op het zorgvuldig kiezen van biologische, duurzame grondstoffen die de huid voeden en verzorgen.
+    imageUrl: /img/soap-natural-ingredients.jpg
 ---
