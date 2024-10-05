@@ -28,7 +28,7 @@ intro:
 
     unieke en natuurlijke producten!
 products:
-  - image: /img/umiterra_handgemaakte-zeep.jpg
+  - image: /img/2_20241005_165211_0001.png
     text: Handgemaakte zeep bestaande uit natuurlijke ingrediënten.
   - image: /img/umiterra_therapeutische_olien.png
     text: Natuurlijke oliën voor huid en haar voor stimulatie en reparatie.
