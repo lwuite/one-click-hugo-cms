@@ -1,5 +1,6 @@
 ---
 title: Kruiden uit de natuur
+type: post
 date: 2017-01-04T15:04:10.000Z
 description: >-
   Ik heb heerlijk gewandeld vandaag en dit is mijn oogst met daarbij een korte omschrijving waar al deze kruiden goed voor zijn.

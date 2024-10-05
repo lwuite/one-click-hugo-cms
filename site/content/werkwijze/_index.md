@@ -1,5 +1,6 @@
 ---
 title: "Werkwijze"
+type: werkwijze
 image: /img/about-jumbotron.jpg
 values:
   - heading: "Shade-grown coffee"

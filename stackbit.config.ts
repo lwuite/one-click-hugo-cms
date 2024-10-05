@@ -12,49 +12,84 @@ export default defineStackbitConfig({
       contentDirs: ["site/content"],
       models: [    // Post Model
         {
-            name: "home",
-            type: "page",
-            filePath: "site/content/_index.md",
-            urlPath: "/",
-            fields: [
-              { name: "title", type: "string", required: true },
-              { name: "subtitle", type: "string" },
-              { name: "image", type: "image" },
-              {
-                name: "blurb",
+          name: "post",
+          type: "page",
+          filePath: "site/content/post/{slug}.md",
+          urlPath: "/post/{slug}",
+          fields: [
+            { name: "title", type: "string", required: true },
+            { name: "date", type: "datetime", required: true },
+            { name: "description", type: "string" },
+            { name: "image", type: "image" },
+            { name: "body", type: "markdown", required: true },
+          ],
+        },
+        {
+          name: "home",
+          type: "page",
+          filePath: "site/content/_index.md",
+          urlPath: "/",
+          fields: [
+            { name: "title", type: "string", required: true },
+            { name: "subtitle", type: "string" },
+            { name: "image", type: "image" },
+            {
+              name: "blurb",
+              type: "object",
+              fields: [
+                { name: "heading", type: "string" },
+                { name: "text", type: "string" },
+              ],
+            },
+            {
+              name: "intro",
+              type: "object",
+              fields: [
+                { name: "heading", type: "string" },
+                { name: "text", type: "string" },
+              ],
+            },
+            {
+              name: "products",
+              type: "list",
+              items: {
+                type: "object",
+                fields: [
+                  { name: "image", type: "image" },
+                  { name: "text", type: "string" },
+                ],
+              },
+            },
+            {
+              name: "werkwijze",
+              type: "object",
+              fields: [
+                { name: "heading", type: "string" },
+                { name: "text", type: "string" },
+              ],
+            },
+          ],
+        },
+        {
+          name: "contact",
+          type: "page",
+          filePath: "site/content/contact/_index.md",
+          urlPath: "/contact",
+          fields: [
+            { name: "title", type: "string", required: true },
+            { name: "logo", type: "image" },
+            { name: "body", type: "markdown", required: true },
+            {
+              name: "contact_entries",
+              type: "list",
+              items: {
                 type: "object",
                 fields: [
                   { name: "heading", type: "string" },
-                  { name: "text", type: "markdown" },
+                  { name: "text", type: "string" },
                 ],
               },
-              {
-                name: "intro",
-                type: "object",
-                fields: [
-                  { name: "heading", type: "string" },
-                  { name: "text", type: "markdown" },
-                ],
-              },
-              {
-                name: "products",
-                type: "list",
-                items: {
-                  type: "object",
-                  fields: [
-                    { name: "image", type: "image" },
-                    { name: "text", type: "string" },
-                  ],
-                },
-              },
-              {
-                name: "values",
-                type: "object",
-                fields: [
-                  { name: "heading", type: "string" },
-                  { name: "text", type: "markdown" },
-                ],
-              },
+            },
           ],
         },
         {
@@ -154,6 +189,28 @@ export default defineStackbitConfig({
                   },
                 },
               ],
+            },
+          ],
+        },
+        {
+          name: "werkwijze",
+          type: "page",
+          filePath: "site/content/werkwijze/_index.md",
+          urlPath: "/werkwijze",
+          fields: [
+            { name: "title", type: "string", required: true },
+            { name: "image", type: "image" },
+            {
+              name: "werkwijze",
+              type: "list",
+              items: {
+                type: "object",
+                fields: [
+                  { name: "heading", type: "string" },
+                  { name: "text", type: "string" },
+                  { name: "imageUrl", type: "image" },
+                ],
+              },
             },
           ],
         },

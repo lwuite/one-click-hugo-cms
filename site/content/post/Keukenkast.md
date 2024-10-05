@@ -1,5 +1,6 @@
 ---
 title: 'Deze producten heb ik altijd standaard in de kast staan'
+type: post
 date: 2017-01-04T15:04:10.000Z
 description: >-
   Als je net begint met het maken van je eigen natuurlijke producten zijn de volgende ingrediënten geweldig om bij de hand te hebben om direct mee aan de slag te gaan.

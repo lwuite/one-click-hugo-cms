@@ -1,6 +1,7 @@
 ---
 title: "Contact"
 logo: "/img/UmiTerra-logo.png"
+type: contact
 contact_entries:
   - heading: Locatie
     text: "Omgeving Haarlemmermeer"
