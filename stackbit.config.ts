@@ -5,5 +5,5 @@ export default defineStackbitConfig({
     "nodeVersion": "18",
     "ssgName": "hugo",
     "contentSources": [],
-    "postInstallCommand": "npm i --no-save @stackbit/types"
+    "postInstallCommand": "yarn add --no-save @stackbit/types"
 })
