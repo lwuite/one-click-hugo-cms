@@ -1,37 +1,4 @@
 baseurl = "/"
-languageCode = "nl-nl"
-languageLang = "nl"
-title = "Umi Terra"
-
-[params]
-  blog_label = "Blog"
-  read_more_label = "Lees verder →"
-  logo = "/img/umiterra_bloem.svg"
-  logo_alt = "UmiTerra logo"
-
-  [[params.nav_links]]
-    label = "Home"
-    url = "/"
-
-  [[params.nav_links]]
-    label = "Winkel"
-    url = "/products"
-
-  [[params.nav_links]]
-    label = "Werkwijze"
-    url = "/werkwijze"
-
-  [[params.nav_links]]
-    label = "Recepten"
-    url = "/recepten"
-
-  [[params.nav_links]]
-    label = "Blog"
-    url = "/post"
-
-  [[params.nav_links]]
-    label = "Contact"
-    url = "/contact"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
