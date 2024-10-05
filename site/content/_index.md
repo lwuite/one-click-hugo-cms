@@ -4,7 +4,7 @@ subtitle: 'Komt hier voor natuurlijke recepten, producten, duurzame creaties & i
 image: /img/umiterra_banner.png
 type: home
 blurb:
-  heading: Waarom UmiTerra?
+  heading: Waarom Umi Terra?
   text: >
     Umi Terra is dé plek voor mensen die op zoek zijn naar informatie over het
     zelf maken van natuurlijke producten.
