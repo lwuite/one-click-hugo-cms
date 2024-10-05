@@ -38,4 +38,6 @@ values:
       schools everywhere our coffee is grown. You can see the communities grow
       and learn more about coffee farming on our blog.
     imageUrl: /img/about-reinvest-profits.jpg
+werkwijze:
+  - {}
 ---
