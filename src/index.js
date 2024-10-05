@@ -13,4 +13,4 @@ function toggleMobileMenu() {
 mobileMenu.addEventListener('click', toggleMobileMenu);
 
 // Say hello
-console.log("🦊 Hello! Edit me in src/index.js");
+console.log("https://kelvin.id was here 👨‍💻, working like a 🕷️ on the 🕸️, to build a 🌸 of a website😎~ASD~");

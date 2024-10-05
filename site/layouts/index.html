@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Params.title "subtitle" .Params.subtitle) }}
 
 {{ partial "short-text" .Params.blurb}}
 
@@ -8,7 +8,7 @@
 
 {{ partial "ecwid-store" . }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Lees verder" "buttonLink" "/aanpak") }}
+{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "imageSrc" .Params.values.image.src "imageAlt" .Params.values.image.alt "buttonText" .Params.values.buttonText "buttonLink" .Params.values.buttonLink) }}
 
 {{ partial "blog" . }}
 

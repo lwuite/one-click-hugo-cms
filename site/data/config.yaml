@@ -1,0 +1,20 @@
+languageCode: nl-nl
+languageLang: nl
+title: Umi Terra
+type: Config
+params:
+  blog_label: Blog
+  read_more_label: Lees verder →
+  logo: /img/umiterra_bloem.svg
+  logo_alt: UmiTerra logo
+  nav_links:
+    - label: Home
+      url: /
+    - label: Winkel
+      url: /products
+    - label: Werkwijze
+      url: /werkwijze
+    - label: Blog
+      url: /post
+    - label: Contact
+      url: /contact
