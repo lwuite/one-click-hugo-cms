@@ -1,7 +1,7 @@
 ---
 title: De magische kracht van Calendula
 type: post
-date: '2017-01-04T15:04:10.000Z'
+date: '2017-01-04T15:04:00.000Z'
 description: >-
   De Calendula Officinalis, ook wel de goudsbloem genoemd is een bloem die
   bekend staat om zijn helende, ontstekingsremmende werking
