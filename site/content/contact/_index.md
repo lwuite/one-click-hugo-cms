@@ -12,7 +12,7 @@ contact_entries:
 ---
 Ik wil graag met je praten en jouw gedachten en vragen horen. Jouw input is belangrijk voor mij zodat ik leren en verbeteren.
 
-![](/img/LesleyWuite-AI-Unblurred.png)
+![](https://preview--umiterra-138f8.stackbit.dev/img/LesleyWuite-AI-Unblurred.png)
 
 Je kunt ook onderstaand formulier gebruiken voor vragen over koffie
 beschikbaarheid, workshops, promotie en (product)partnerships
