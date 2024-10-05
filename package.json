@@ -29,6 +29,8 @@
     "@babel/preset-env": "^7.16.0",
     "@babel/register": "^7.16.0",
     "@stackbit/cli": "^0.3.102",
+    "@stackbit/cms-git": "^1.0.15",
+    "@stackbit/types": "^2.1.0",
     "assets-webpack-plugin": "^7.1.1",
     "autoprefixer": "^10.4.7",
     "babel-loader": "^8.2.3",

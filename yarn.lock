@@ -2249,6 +2249,23 @@
     "slugify" "^1.6.5"
     "uuid" "^9.0.0"
 
+"@stackbit/cms-git@^1.0.15", "@stackbit/cms-git@1.0.15":
+  "integrity" "sha512-VVNJqbyCgIee7NS5FRON3TBlFk+UvDKHXyLDCPk7xU0UN6lApiw1Teb4VR5t2OV9NgEGDY9zJc3SQW1yj9zSQw=="
+  "resolved" "https://registry.npmjs.org/@stackbit/cms-git/-/cms-git-1.0.15.tgz"
+  "version" "1.0.15"
+  dependencies:
+    "@stackbit/artisanal-names" "^1.0.1"
+    "@stackbit/cms-core" "3.1.5"
+    "@stackbit/sdk" "2.1.3"
+    "@stackbit/types" "2.1.0"
+    "@stackbit/utils" "0.7.2"
+    "axios" "^1.7.7"
+    "fs-extra" "^11.1.0"
+    "git-url-parse" "^13.1.0"
+    "lodash" "^4.17.20"
+    "micromatch" "^4.0.4"
+    "slugify" "^1.6.5"
+
 "@stackbit/cms-git@0.4.18":
   "integrity" "sha512-eqRY3sC8xaJ6OrWPpRptEhe/6/0mt6TsAk0LMVsDERekzLOYQqnmsqPNFN0tIaTd9FXqPSmravW6jc6b+aAXMA=="
   "resolved" "https://registry.npmjs.org/@stackbit/cms-git/-/cms-git-0.4.18.tgz"
@@ -2260,23 +2277,6 @@
     "@stackbit/types" "1.0.1"
     "@stackbit/utils" "0.4.19"
     "axios" "^0.24.0"
-    "fs-extra" "^11.1.0"
-    "git-url-parse" "^13.1.0"
-    "lodash" "^4.17.20"
-    "micromatch" "^4.0.4"
-    "slugify" "^1.6.5"
-
-"@stackbit/cms-git@1.0.15":
-  "integrity" "sha512-VVNJqbyCgIee7NS5FRON3TBlFk+UvDKHXyLDCPk7xU0UN6lApiw1Teb4VR5t2OV9NgEGDY9zJc3SQW1yj9zSQw=="
-  "resolved" "https://registry.npmjs.org/@stackbit/cms-git/-/cms-git-1.0.15.tgz"
-  "version" "1.0.15"
-  dependencies:
-    "@stackbit/artisanal-names" "^1.0.1"
-    "@stackbit/cms-core" "3.1.5"
-    "@stackbit/sdk" "2.1.3"
-    "@stackbit/types" "2.1.0"
-    "@stackbit/utils" "0.7.2"
-    "axios" "^1.7.7"
     "fs-extra" "^11.1.0"
     "git-url-parse" "^13.1.0"
     "lodash" "^4.17.20"
@@ -2475,15 +2475,15 @@
     "moment" "^2.29.1"
     "semver" "^7.3.5"
 
+"@stackbit/types@^2.1.0", "@stackbit/types@2.1.0":
+  "integrity" "sha512-eyYEOIkXxepIh3+2mZH5nSMaAzOtXHTRlSvrR5NhCCfJyzNjryUPT02cBW0KN/DO7ibixyGHtoVcnufszUhk4w=="
+  "resolved" "https://registry.npmjs.org/@stackbit/types/-/types-2.1.0.tgz"
+  "version" "2.1.0"
+
 "@stackbit/types@1.0.1":
   "integrity" "sha512-DODjYi6Mlc0z+P7oIROtbT+CqWh3+ACHJZrotOCkRhZbT8P3yX/Tmtzdzn6VQIDmLOf58STU/1ceT75R5n71bg=="
   "resolved" "https://registry.npmjs.org/@stackbit/types/-/types-1.0.1.tgz"
   "version" "1.0.1"
-
-"@stackbit/types@2.1.0":
-  "integrity" "sha512-eyYEOIkXxepIh3+2mZH5nSMaAzOtXHTRlSvrR5NhCCfJyzNjryUPT02cBW0KN/DO7ibixyGHtoVcnufszUhk4w=="
-  "resolved" "https://registry.npmjs.org/@stackbit/types/-/types-2.1.0.tgz"
-  "version" "2.1.0"
 
 "@stackbit/utils@0.4.19":
   "integrity" "sha512-Q0SrJXB4SugDrNUvwJZYpF5Syg9WjC+oRISzW/sQSWBISln/d4xwl+l/6cQsv0Zm7OdyhsAQdY2MFfH6QG3HTg=="
