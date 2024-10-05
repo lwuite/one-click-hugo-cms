@@ -1,5 +1,5 @@
 ---
-title: De zelfzorg wetenschapper!!!!!
+title: De zelfzorg wetenschapper
 subtitle: 'Komt hier voor natuurlijke recepten, producten, duurzame creaties & ideeën'
 image: /img/umiterra_banner.png
 type: home
