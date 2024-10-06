@@ -6,6 +6,7 @@ params:
   blog_label: Blog
   read_more_label: Lees verder →
   logo: /img/umiterra_bloem.svg
+  logo_with_font: /img/UmiTerra-logo.png
   logo_alt: UmiTerra logo
   nav_links:
     - label: Home
@@ -18,3 +19,26 @@ params:
       url: /post
     - label: Contact
       url: /contact
+  footer_nav_left:
+    - label: Winkel
+      url: /products
+    - label: Werkwijze
+      url: /werkwijze
+    - label: Blog
+      url: /post
+    - label: Contact
+      url: /contact
+  footer_nav_center:
+    - label: Keukenkast
+      url: /post/keukenkast
+    - label: Contact voor maatwerk
+      url: /contact
+  social_media:
+    instagram:
+      label: Instagram
+      url: https://www.instagram.com/umiterra/
+  titles:
+    newsletter: Nieuwsbrief voor leuke recepten, weetjes en producten.
+    company_name: UmiTerra
+    more_info: Meer weten
+    social_media: Sociale media

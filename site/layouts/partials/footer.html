@@ -1,50 +1,44 @@
 <footer class="bg-mint ph3 pv4 white">
 
-	<div class="mw7 center pt3">
+    <div class="mw7 center pt3">
 
-		<div class="measure-narrow center mb4">
+        <div class="measure-narrow center mb4">
+            <img src="{{ .Site.Data.config.params.logo_with_font }}" alt="{{ .Site.Data.config.params.logo_alt }}" class="db w4 center mb4 br0">
+            <p class="f3 lh-title light-gray b tc mb2">{{ .Site.Data.config.params.titles.newsletter }}</p>
+            
+            {{ partial "newsletter-form" . }}
 
-			<img src="/img/UmiTerra-logo.png" alt="UmiTerra logo" class="db w4 center mb4 br0">
-			<p class="f3 lh-title light-gray b tc mb2">Nieuwsbrief voor leuke recepten, weetjes en producten.</p>
+        </div>
 
-			{{ partial "newsletter-form" . }}
+        <div class="flex-ns justify-between">
 
-		</div>
+            <div>
+                <h3 class="f4 b lh-title mb1 primary">{{ .Site.Data.config.params.titles.company_name }}</h3>
+                <ul class="mb3">
+                    {{ range .Site.Data.config.params.footer_nav_left }}
+                        <li><a href="{{ .url }}" class="link">{{ .label }}</a></li>
+                    {{ end }}
+                </ul>
+            </div>
 
-		<div class="flex-ns justify-between">
+            <div>
+                <h3 class="f4 b lh-title mb1 primary">{{ .Site.Data.config.params.titles.more_info }}</h3>
+                <ul class="mb3">
+                    {{ range .Site.Data.config.params.footer_nav_center }}
+                        <li><a href="{{ .url }}" class="link">{{ .label }}</a></li>
+                    {{ end }}
+                </ul>
+            </div>
 
-			<div>
-				<h3 class="f4 b lh-title mb1 primary">UmiTerra</h3>
-				<ul class="mb3">
-					<li><a href="/" class="link">Home</a></li>
-					<li><a href="/products" class="link">Producten</a></li>
-					<li><a href="/recepten" class="link">Recepten</a></li>
-					<li><a href="/werkwijze" class="link">Werkwijze</a></li>
-					<li><a href="/post" class="link">Blog</a></li>
-					<li><a href="/contact" class="link">Contact</a></li>
-				</ul>
-			</div>
+            <div>
+                <h3 class="f4 b lh-title mb2 primary">{{ .Site.Data.config.params.titles.social_media }}</h3>
+                <ul class="mhn2">
+                    {{ partial "social-icon" (dict "link" .Site.Data.config.params.social_media.instagram.url "svg" "icons-instagram") }}
+                </ul>
+            </div>
 
-			<div>
-				<h3 class="f4 b lh-title mb1 primary">Meer weten</h3>
-				<ul class="mb3">
-					<li><a href="/post/keukenkast" class="link">Keukenkast</a></li>
-					<li><a href="/contact" class="link">Contact voor maatwerk</a></li>
-				</ul>
-			</div>
-
-			<div>
-				<h3 class="f4 b lh-title mb2 primary">Sociale media</h3>
-				<ul class="mhn2">
-					{{/* {{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook") }} */}}
-					{{/* {{ partial "social-icon" (dict "link" "#" "svg" "icons-twitter") }} */}}
-					{{ partial "social-icon" (dict "link" "https://www.instagram.com/umiterra/" "svg" "icons-instagram") }}
-					{{/* {{ partial "social-icon" (dict "link" "#" "svg" "icons-vimeo") }} */}}
-				</ul>
-			</div>
-
-		</div>
-	</div>
+        </div>
+    </div>
 
 </footer>
 
