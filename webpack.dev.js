@@ -22,6 +22,17 @@ module.exports = merge(common, {
     open: true,
     historyApiFallback: {
       rewrites: [{from: /./, to: "404.html"}]
+    },
+    client: {
+      overlay: {
+        runtimeErrors: (error) => {
+          if (error?.message.includes('ResizeObserver loop completed with undelivered notifications')) {
+            console.error(error);
+            return false;  // Suppress this specific error
+          }
+          return true;
+        },
+      },
     }
   },
 
