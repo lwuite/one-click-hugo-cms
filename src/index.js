@@ -6,15 +6,21 @@ import "./css/main.scss";
 // This approach helps reduce site traffic and image sizes without requiring complex changes to Hugo.
 // It allows us to continue using the /img/ path freely while optimizing performance.
 if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('/sw.js')
-        .then((registration) => {
-            console.log('Service Worker registered');
-            // Ensure the latest service worker is installed
-            registration.update();
-        })
-        .catch((error) => {
-            console.error('Service Worker registration failed:', error);
-        });
+    navigator.serviceWorker.register('/sw.js').then((registration) => {
+        console.log('Service Worker registered with scope:', registration.scope);
+
+        if (registration.waiting) {
+            registration.waiting.postMessage({ type: 'SKIP_WAITING' });
+        }
+
+        // Reload the page only if this is the first time the Service Worker is taking control
+        // if (!navigator.serviceWorker.controller) {
+        //     console.log('Service Worker in control for the first time, reloading page to apply SW...');
+        //     window.location.reload();
+        // }
+    }).catch((error) => {
+        console.error('Service Worker registration failed:', error);
+    });
 }
 
 // https://github.com/netlify-templates/one-click-hugo-cms/pull/479

@@ -21,7 +21,8 @@
     "stackbit-pull": "stackbit pull --stackbit-pull-api-url=https://api.stackbit.com/pull --stackbit-ssg-type=hugo",
     "stackbit-dev": "stackbit dev --stackbit-pull-api-url=https://api.stackbit.com/pull --stackbit-ssg-type=hugo",
     "yaml-lint": "yaml-lint site/content/**/*.md",
-    "compress-images": "node scripts/compress-images.mjs"
+    "compress-images": "node scripts/compress-images.mjs",
+    "pyserve": "python3 -m http.server 3000 --directory dist"
   },
   "author": "Kelvin R. Wuite <kelvin@contact.id>",
   "license": "MIT",
