@@ -2,12 +2,15 @@ languageCode: nl-nl
 languageLang: nl
 title: Umi Terra
 type: Config
-params:
-  blog_label: Blog
-  read_more_label: Lees verder →
+branding:
   logo: /img/umiterra_bloem.svg
   logo_with_font: /img/UmiTerra-logo.png
   logo_alt: UmiTerra logo
+global:
+  read_more_label: Lees verder →
+blog:
+  blog_label: Blog
+menu:
   nav_links:
     - label: Home
       url: /
@@ -19,6 +22,7 @@ params:
       url: /post
     - label: Contact
       url: /contact
+footer:
   footer_nav_left:
     - label: Winkel
       url: /products
@@ -36,9 +40,9 @@ params:
   social_media:
     instagram:
       label: Instagram
-      url: https://www.instagram.com/umiterra/
+      url: 'https://www.instagram.com/umiterra/'
   titles:
-    newsletter: Nieuwsbrief voor leuke recepten, weetjes en producten.
+    newsletter: 'Nieuwsbrief voor leuke recepten, weetjes en producten.'
     company_name: UmiTerra
     more_info: Meer weten
     social_media: Sociale media

@@ -1,7 +1,7 @@
 <nav data-nav class="flex justify-between items-center center bg-white divider-grey relative">
 	<!-- Logo -->
 	<a href="{{ .Site.BaseURL }}" class="pa3 db mr4 h-100 w3 flex-none">
-		<img src="{{ .Site.Data.config.params.logo }}" alt="{{ .Site.Data.config.params.logo_alt }}" class="br0 db mb0 w-100"/>
+		<img src="{{ .Site.Data.config.branding.logo }}" alt="{{ .Site.Data.config.branding.logo_alt }}" class="br0 db mb0 w-100"/>
 	</a>
 
 	<!-- Primary Nav -->
@@ -14,7 +14,7 @@
 	</div>
 
 	<ul class="flex b grey-3 nav-menu">
-		{{ range .Site.Data.config.params.nav_links }}
+		{{ range .Site.Data.config.menu.nav_links }}
 			<li><a href="{{ .url }}" class="pa3 no-underline db">{{ .label }}</a></li>
 		{{ end }}
 	</ul>

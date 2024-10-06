@@ -3,8 +3,8 @@
     <div class="mw7 center pt3">
 
         <div class="measure-narrow center mb4">
-            <img src="{{ .Site.Data.config.params.logo_with_font }}" alt="{{ .Site.Data.config.params.logo_alt }}" class="db w4 center mb4 br0">
-            <p class="f3 lh-title light-gray b tc mb2">{{ .Site.Data.config.params.titles.newsletter }}</p>
+            <img src="{{ .Site.Data.config.branding.logo_with_font }}" alt="{{ .Site.Data.config.branding.logo_alt }}" class="db w4 center mb4 br0">
+            <p class="f3 lh-title light-gray b tc mb2">{{ .Site.Data.config.footer.titles.newsletter }}</p>
             
             {{ partial "newsletter-form" . }}
 
@@ -13,27 +13,27 @@
         <div class="flex-ns justify-between">
 
             <div>
-                <h3 class="f4 b lh-title mb1 primary">{{ .Site.Data.config.params.titles.company_name }}</h3>
+                <h3 class="f4 b lh-title mb1 primary">{{ .Site.Data.config.footer.titles.company_name }}</h3>
                 <ul class="mb3">
-                    {{ range .Site.Data.config.params.footer_nav_left }}
+                    {{ range .Site.Data.config.footer.footer_nav_left }}
                         <li><a href="{{ .url }}" class="link">{{ .label }}</a></li>
                     {{ end }}
                 </ul>
             </div>
 
             <div>
-                <h3 class="f4 b lh-title mb1 primary">{{ .Site.Data.config.params.titles.more_info }}</h3>
+                <h3 class="f4 b lh-title mb1 primary">{{ .Site.Data.config.footer.titles.more_info }}</h3>
                 <ul class="mb3">
-                    {{ range .Site.Data.config.params.footer_nav_center }}
+                    {{ range .Site.Data.config.footer.footer_nav_center }}
                         <li><a href="{{ .url }}" class="link">{{ .label }}</a></li>
                     {{ end }}
                 </ul>
             </div>
 
             <div>
-                <h3 class="f4 b lh-title mb2 primary">{{ .Site.Data.config.params.titles.social_media }}</h3>
+                <h3 class="f4 b lh-title mb2 primary">{{ .Site.Data.config.footer.titles.social_media }}</h3>
                 <ul class="mhn2">
-                    {{ partial "social-icon" (dict "link" .Site.Data.config.params.social_media.instagram.url "svg" "icons-instagram") }}
+                    {{ partial "social-icon" (dict "link" .Site.Data.config.footer.social_media.instagram.url "svg" "icons-instagram") }}
                 </ul>
             </div>
 
