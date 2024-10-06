@@ -7,8 +7,10 @@ import "./css/main.scss";
 // It allows us to continue using the /img/ path freely while optimizing performance.
 if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('/sw.js')
-        .then(() => {
+        .then((registration) => {
             console.log('Service Worker registered');
+            // Ensure the latest service worker is installed
+            registration.update();
         })
         .catch((error) => {
             console.error('Service Worker registration failed:', error);

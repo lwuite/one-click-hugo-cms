@@ -1,3 +1,8 @@
+self.addEventListener('install', (event) => {
+    // Force the waiting service worker to become the active service worker
+    self.skipWaiting();
+});
+
 self.addEventListener('fetch', (event) => {
     const requestUrl = new URL(event.request.url);
 
