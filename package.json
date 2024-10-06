@@ -20,7 +20,8 @@
     "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js",
     "stackbit-pull": "stackbit pull --stackbit-pull-api-url=https://api.stackbit.com/pull --stackbit-ssg-type=hugo",
     "stackbit-dev": "stackbit dev --stackbit-pull-api-url=https://api.stackbit.com/pull --stackbit-ssg-type=hugo",
-    "yaml-lint": "yaml-lint site/content/**/*.md"
+    "yaml-lint": "yaml-lint site/content/**/*.md",
+    "compress-images": "node scripts/compress-images.mjs"
   },
   "author": "Kelvin R. Wuite <kelvin@contact.id>",
   "license": "MIT",
@@ -70,5 +71,10 @@
   "engines": {
     "node": ">=18.20.4 <19",
     "npm": ">=9.5.1 <11"
+  },
+  "dependencies": {
+    "imagemin": "^9.0.0",
+    "imagemin-mozjpeg": "^10.0.0",
+    "imagemin-pngquant": "^10.0.0"
   }
 }
