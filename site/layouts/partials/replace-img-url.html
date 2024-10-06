@@ -1,0 +1,8 @@
+{{- /* Partial: replace-img-url.html */ -}}
+{{- $originalUrl := . -}}
+{{- if $originalUrl -}}
+  {{- $modifiedUrl := replaceRE `^/img/(.*)` "/img-cmp/$1" $originalUrl -}}
+  {{- $modifiedUrl -}}
+{{- else -}}
+  {{- "" -}}
+{{- end -}}

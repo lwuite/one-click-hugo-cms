@@ -3,7 +3,7 @@
     <div class="mw7 center pt3">
 
         <div class="measure-narrow center mb4">
-            <img src="{{ .Site.Data.config.branding.logo_with_font }}" alt="{{ .Site.Data.config.branding.logo_alt }}" class="db w4 center mb4 br0">
+            <img src="{{ partial "replace-img-url.html" .Site.Data.config.branding.logo_with_font }}" alt="{{ .Site.Data.config.branding.logo_alt }}" class="db w4 center mb4 br0">
             <p class="f3 lh-title light-gray b tc mb2">{{ .Site.Data.config.footer.titles.newsletter }}</p>
             
             {{ partial "newsletter-form" . }}

@@ -1,7 +1,7 @@
 <nav data-nav class="flex justify-between items-center center bg-white divider-grey relative">
 	<!-- Logo -->
 	<a href="{{ .Site.BaseURL }}" class="pa3 db mr4 h-100 w3 flex-none">
-		<img src="{{ .Site.Data.config.branding.logo }}" alt="{{ .Site.Data.config.branding.logo_alt }}" class="br0 db mb0 w-100"/>
+		<img src="{{ partial "replace-img-url.html" .Site.Data.config.branding.logo }}" alt="{{ .Site.Data.config.branding.logo_alt }}" class="br0 db mb0 w-100"/>
 	</a>
 
 	<!-- Primary Nav -->
