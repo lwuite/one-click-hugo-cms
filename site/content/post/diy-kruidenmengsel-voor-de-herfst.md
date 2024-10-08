@@ -4,7 +4,7 @@ title: 'DIY Kruidenmengsels voor de herfst: Versterk je Immuniteit'
 date: '2024-10-08T15:07:00.000Z'
 body: |+
 
-
+image: /img/Kruidenthee.png
 ---
 De herfst is het perfecte moment om je lichaam te versterken met natuurlijke middelen, want het koude weer brengt vaak verkoudheden en griep met zich mee. Gelukkig biedt de natuur ons krachtige kruiden die ons immuunsysteem een flinke boost kunnen geven. Vandaag deel ik een eenvoudig recept voor een weerstandsverhogende kruidenthee, samen met uitleg over hoe elk kruid werkt en tips over het drogen en bewaren van kruiden.
 
