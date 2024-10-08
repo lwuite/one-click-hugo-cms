@@ -19,9 +19,6 @@ Tijm is niet alleen een geweldige smaakmaker in de keuken, maar het is ook een k
 **3. Gember**
 Gember is een verwarmend kruid dat je bloedsomloop stimuleert en een krachtig ontstekingsremmend effect heeft. Het is geweldig om verkoudheid en keelpijn te verlichten, en het helpt ook bij het verminderen van misselijkheid. Bovendien versterkt gember je spijsvertering, wat een belangrijke rol speelt in je algehele gezondheid en immuunsysteem.
 
-![](https://preview--umiterra-138f8.stackbit.dev/img/Kruidenthee.png)
-
-
 #### Recept voor weerstandsverhogende kruidenthee
 
 **Ingrediënten:**
@@ -57,6 +54,3 @@ Gember is een verwarmend kruid dat je bloedsomloop stimuleert en een krachtig on
 Echinacea en tijm werken samen om je immuunsysteem direct te ondersteunen, terwijl gember je lichaam van binnenuit verwarmt en helpt om ontstekingen en verkoudheid tegen te gaan. Het drinken van deze thee, vooral in de herfst- en wintermaanden, kan je helpen om je beter te wapenen tegen seizoensgebonden ziekten.
 
 Probeer dit eenvoudige kruidentheemengsel uit en laat je verrassen door de kracht van de natuur. Heb je zelf nog andere favoriete kruiden die je toevoegt aan je herfstthee? Deel ze in de reacties, en laten we elkaar inspireren om gezond de herfst door te komen!
-
-
-
