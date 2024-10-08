@@ -14,9 +14,9 @@ De herfst is het perfecte moment om je lichaam te versterken met natuurlijke mid
 
 **2. Tijm** is niet alleen een geweldige smaakmaker in de keuken, maar het is ook een krachtig kruid voor je gezondheid. Het heeft antibacteriële en antivirale eigenschappen en werkt als een natuurlijke slijmoplosser. Tijm helpt je lichaam om ziekteverwekkers te bestrijden en luchtwegenproblemen te verlichten.
 
-**3. Gember** is een verwarmend kruid dat je bloedsomloop stimuleert en een krachtig ontstekingsremmend effect heeft. Het is geweldig om verkoudheid en keelpijn te verlichten, en het helpt ook bij het verminderen van misselijkheid. Bovendien versterkt gember je spijsvertering, wat een belangrijke rol speelt in je algehele gezondheid en immuunsysteem.
+**3. Gember** is een verwarmend kruid dat je bloedsomloop stimuleert en een krachtig ontstekingsremmend effect heeft. Het werkt goed om verkoudheid en keelpijn te verlichten, en het helpt ook bij het verminderen van misselijkheid. Bovendien versterkt gember je spijsvertering, wat een belangrijke rol speelt in je algehele gezondheid en immuunsysteem.
 
-#### Recept voor weerstandsverhogende kruidenthee
+#### Recept voor weerstandsverhogende kruidenthee:
 
 **Ingrediënten:**
 
