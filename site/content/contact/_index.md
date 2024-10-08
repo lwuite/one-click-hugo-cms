@@ -7,7 +7,7 @@ contact_entries:
     text: Omgeving Haarlemmermeer
   - heading: Contact uren
     text: >-
-      Maandag tot Zaterdag van: 18:00 – 22:00 lees ik mijn email en verwerk ik
+      Maandag tot zaterdag van: 18:00 – 22:00 lees ik mijn email en verwerk ik
       bestellingen
 ---
 Ik hoor graag jouw gedachten en vragen, want jouw input helpt mij om verder te leren en mijn werk te optimaliseren.
