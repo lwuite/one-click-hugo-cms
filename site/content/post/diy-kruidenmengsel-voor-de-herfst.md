@@ -10,20 +10,11 @@ De herfst is het perfecte moment om je lichaam te versterken met natuurlijke mid
 
 #### Kruiden die je immuunsysteem versterken:
 
-**1. Echinacea**
+**1. Echinacea** is al eeuwenlang bekend om zijn sterke weerstandsverhogende eigenschappen. Het helpt je lichaam bij het bestrijden van virussen en infecties door de productie van witte bloedcellen te stimuleren. Dit kruid wordt vaak gebruikt als preventief middel tegen verkoudheid en griep.
 
+**2. Tijm** is niet alleen een geweldige smaakmaker in de keuken, maar het is ook een krachtig kruid voor je gezondheid. Het heeft antibacteriële en antivirale eigenschappen en werkt als een natuurlijke slijmoplosser. Tijm helpt je lichaam om ziekteverwekkers te bestrijden en luchtwegenproblemen te verlichten.
 
-Echinacea is al eeuwenlang bekend om zijn sterke weerstandsverhogende eigenschappen. Het helpt je lichaam bij het bestrijden van virussen en infecties door de productie van witte bloedcellen te stimuleren. Dit kruid wordt vaak gebruikt als preventief middel tegen verkoudheid en griep.
-
-**2. Tijm**
-
-
-Tijm is niet alleen een geweldige smaakmaker in de keuken, maar het is ook een krachtig kruid voor je gezondheid. Het heeft antibacteriële en antivirale eigenschappen en werkt als een natuurlijke slijmoplosser. Tijm helpt je lichaam om ziekteverwekkers te bestrijden en luchtwegenproblemen te verlichten.
-
-**3. Gember**
-
-
-Gember is een verwarmend kruid dat je bloedsomloop stimuleert en een krachtig ontstekingsremmend effect heeft. Het is geweldig om verkoudheid en keelpijn te verlichten, en het helpt ook bij het verminderen van misselijkheid. Bovendien versterkt gember je spijsvertering, wat een belangrijke rol speelt in je algehele gezondheid en immuunsysteem.
+**3. Gember** is een verwarmend kruid dat je bloedsomloop stimuleert en een krachtig ontstekingsremmend effect heeft. Het is geweldig om verkoudheid en keelpijn te verlichten, en het helpt ook bij het verminderen van misselijkheid. Bovendien versterkt gember je spijsvertering, wat een belangrijke rol speelt in je algehele gezondheid en immuunsysteem.
 
 #### Recept voor weerstandsverhogende kruidenthee
 
