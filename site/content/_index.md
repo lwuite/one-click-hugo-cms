@@ -5,9 +5,12 @@ image: /img/umiterra_banner.png
 type: home
 blurb:
   heading: Waarom Umi Terra?
-  text: >
-    Umi Terra is dé plek voor mensen die op zoek zijn naar informatie over het
-    zelf maken van natuurlijke producten.
+  text: >-
+    Umi Terra is dé plek voor iedereen die op zoek is naar praktische kennis en
+    inspiratie om zelf natuurlijke producten te maken. Of je nu wilt leren over
+    kruiden, verzorgingsproducten of binnenkort ook natuurlijke voeding, Umi
+    Terra biedt alles wat je nodig hebt om een gezonde, bewuste levensstijl te
+    creëren.
 intro:
   heading: Wie ben ik?
   text: >-
