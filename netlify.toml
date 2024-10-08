@@ -1,5 +1,5 @@
 [build.environment]
-  HUGO_VERSION = "0.98.0"
+  HUGO_VERSION = "0.132.0"
 
 [build]
   command = "npm run build"
@@ -11,9 +11,3 @@
 [dev]
   framework = "hugo"
   targetPort = 3000
-
-[[plugins]]
-  package = "netlify-plugin-cypress"
-
-  [plugins.inputs]
-    record = true
