@@ -4,7 +4,8 @@ import { Model } from '@stackbit/types';
 export const WorkingMethodModel: Model = {
   name: "WorkingMethod",
   type: "page",
-  filePath: "site/content/werkwijze/_index.md",
+  file: "site/content/werkwijze/_index.md",
+  singleInstance: true, 
   urlPath: "/werkwijze",
   fields: [
     { name: "title", type: "string", required: true },

@@ -4,7 +4,8 @@ import { Model } from '@stackbit/types';
 export const BlogModel: Model = {
     name: "blog",
     type: "page",
-    filePath: "site/content/post/_index.md",
+    file: "site/content/post/_index.md",
+    singleInstance: true, 
     urlPath: "/post",
     fields: [
       {
