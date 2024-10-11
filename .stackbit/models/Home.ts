@@ -4,7 +4,8 @@ import { Model } from '@stackbit/types';
 export const HomeModel: Model = {
     name: "home",
     type: "page",
-    filePath: "site/content/_index.md",
+    file: "site/content/_index.md",
+    singleInstance: true, 
     urlPath: "/",
     fields: [
       { name: "title", type: "string", required: true },

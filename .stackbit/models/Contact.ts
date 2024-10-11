@@ -4,7 +4,8 @@ import { Model } from '@stackbit/types';
 export const ContactModel: Model = {
     name: "contact",
     type: "page",
-    filePath: "site/content/contact/_index.md",
+    file: "site/content/contact/_index.md",
+    singleInstance: true, 
     urlPath: "/contact",
     fields: [
       { name: "title", type: "string", required: true },
